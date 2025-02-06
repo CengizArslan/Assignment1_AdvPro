@@ -1,1 +1,1 @@
-To run enter "npx create-next-app@latest filename" into the terminal. Edit the index.js to mine and add the page1.js and page2.js to the pages file. Then change the global.css file to mine. Then click "npm run dev". 
+To run enter "npx create-next-app@latest filename" into the terminal. Edit the index.js to mine and add the page1.js and page2.js to the pages folder. Then change the global.css file to mine. Then click "npm run dev". 
